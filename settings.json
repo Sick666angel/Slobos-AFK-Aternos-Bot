@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LIFEStealSMP-o6mB.aternos.me:33947",
+    "ip": "LIFEStealSMP-o6mB.aternos.me",
     "port": 33947,
     "version": "",
     "try-creative": false
